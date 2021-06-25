@@ -1,0 +1,537 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/ian/Repos/thinking-space/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+Ca22	PY_DMCoreMass.py	/^    Ca22 = [[],[]]$/;"	v
+Ca32	PY_DMCoreMass.py	/^    Ca32 = [[],[]]$/;"	v
+Ca_22	PY_DMCoreMass.py	/^def Ca_22(mx, star, rho_chi, vbar, sigma):$/;"	f
+Ca_321	PY_DMCoreMass.py	/^def Ca_321(mx, star):$/;"	f
+D	PY_BH_Exclusion.py	/^from decimal import Decimal as D$/;"	x	nameref:unknown:Decimal
+D	PY_DMCoreMass.py	/^from decimal import Decimal as D$/;"	x	nameref:unknown:Decimal
+D	PY_calculating_evap_rates.py	/^from decimal import Decimal as D$/;"	x	nameref:unknown:Decimal
+D	PY_capture_plotting_practice.py	/^from decimal import Decimal as D$/;"	x	nameref:unknown:Decimal
+D	PY_effective_temp.py	/^from decimal import Decimal as D$/;"	x	nameref:unknown:Decimal
+D	PY_fig_3_incomplete.py	/^from decimal import Decimal as D$/;"	x	nameref:unknown:Decimal
+D	PY_popIII_dmdetectors_capturefunc.py	/^from decimal import Decimal as D$/;"	x	nameref:unknown:Decimal
+D	PY_practice_fig3.py	/^from decimal import Decimal as D$/;"	x	nameref:unknown:Decimal
+E	PY_DMCoreMass.py	/^    E = 0$/;"	v
+E	PY_calculating_evap_rates.py	/^E = []$/;"	v
+E_1000M_dat	PY_DMCoreMass.py	/^E_1000M_dat = []$/;"	v
+E_1000M_highmchi_dat	PY_calculating_evap_rates.py	/^E_1000M_highmchi_dat = np.asarray(E[1])$/;"	v
+E_300M_dat	PY_DMCoreMass.py	/^E_300M_dat = []$/;"	v
+E_300M_highmchi_dat	PY_calculating_evap_rates.py	/^E_300M_highmchi_dat = np.asarray(E[0])$/;"	v
+E_c_gould	PY_calculating_evap_rates.py	/^def E_c_gould(mx, xi, star):$/;"	f
+E_dat	PY_DMCoreMass.py	/^    E_dat = [E_300M_dat, E_1000M_dat]$/;"	v
+E_e_gould	PY_calculating_evap_rates.py	/^def E_e_gould(mx, xi, star):$/;"	f
+Etau	PY_DMCoreMass.py	/^    Etau = [[],[]]$/;"	v
+Etau_approx	PY_DMCoreMass.py	/^    Etau_approx = [[],[]]$/;"	v
+G	PY_DMCoreMass.py	/^    G = 6.6743*10**(-8)$/;"	v
+G	PY_DMCoreMass.py	/^G = 6.6743*10**(-8) # gravitational constant in cgs units$/;"	v
+G	PY_practice_fig3.py	/^G = 6.6743*10**(-8) # gravitational constant in cgs units$/;"	v
+L	PY_BH_Exclusion.py	/^L = np.power(10,[6.8172, 7.3047])$/;"	v
+L	PY_DMCoreMass.py	/^L = np.power(10,[6.8172, 7.3047])$/;"	v
+L	PY_capture_plotting_practice.py	/^L = np.power(10,[6.1470, 6.8172, 7.3047])$/;"	v
+L	PY_fig_3_incomplete.py	/^L = np.power(10,[6.8172, 7.3047])$/;"	v
+L	PY_practice_fig3.py	/^L = np.power(10,[6.8172, 7.3047])$/;"	v
+L_edd	PY_effective_temp.py	/^L_edd = []$/;"	v
+L_nuc	PY_effective_temp.py	/^L_nuc = []$/;"	v
+M	PY_BH_Exclusion.py	/^M = [300, 1000]$/;"	v
+M	PY_DMCoreMass.py	/^M = [300, 1000]$/;"	v
+M	PY_capture_plotting_practice.py	/^M = [100, 300, 1000]$/;"	v
+M	PY_effective_temp.py	/^M = []$/;"	v
+M	PY_fig_3_incomplete.py	/^M = [300, 1000]$/;"	v
+M	PY_practice_fig3.py	/^M = [300, 1000]$/;"	v
+M1	PY_effective_temp.py	/^M1 = PopIIIStar(1, .875, 1.072, 1.91)$/;"	v
+M10	PY_effective_temp.py	/^M10 = PopIIIStar(10, 1.4, 2.68, 7.27e3)$/;"	v
+M100	PY_BH_Exclusion.py	/^M100 = PopIIIStar(100, 10**0.6147, 10**6.1470, 1.176e8, 32.3, 10**6)$/;"	v
+M100	PY_DMCoreMass.py	/^M100 = PopIIIStar(100, 10**0.6147, 10**6.1470, 1.176e8, 32.3, 10**6)$/;"	v
+M100	PY_calculating_evap_rates.py	/^M100 = PopIIIStar(100, 10**0.6147, 10**6.1470, 1.176e8, 32.3, 10**6)$/;"	v
+M100	PY_capture_plotting_practice.py	/^M100 = PopIIIStar(100, 10**0.6147, 10**6.1470, 1.176e8, 32.3, 10**6)$/;"	v
+M100	PY_effective_temp.py	/^M100 = PopIIIStar(100, 4.118, 4.942, 1.4e6)$/;"	v
+M100	PY_fig_3_incomplete.py	/^M100 = PopIIIStar(100, 10**0.6147, 10**6.1470, 1.176e8, 32.3, 10**6)$/;"	v
+M100	PY_popIII_dmdetectors_capturefunc.py	/^M100 = PopIIIStar(100, 10**0.6147, 10**6.1470, 1.176e8, 32.3, 10**6)$/;"	v
+M100	PY_practice_fig3.py	/^M100 = PopIIIStar(100, 10**0.6147, 10**6.1470, 1.176e8, 32.3, 10**6)$/;"	v
+M1000	PY_BH_Exclusion.py	/^M1000 = PopIIIStar(1000, 10**1.1090, 10**7.3047, 1.307e8, 10.49, 10**6)$/;"	v
+M1000	PY_DMCoreMass.py	/^M1000 = PopIIIStar(1000, 10**1.1090, 10**7.3047, 1.307e8, 10.49, 10**6)$/;"	v
+M1000	PY_calculating_evap_rates.py	/^M1000 = PopIIIStar(1000, 10**1.1090, 10**7.3047, 1.307e8, 10.49, 10**6)$/;"	v
+M1000	PY_capture_plotting_practice.py	/^M1000 = PopIIIStar(1000, 10**1.1090, 10**7.3047, 1.307e8, 10.49, 10**6)$/;"	v
+M1000	PY_effective_temp.py	/^M1000 = PopIIIStar(1000, 12.85, 8.845, 2.02e7)$/;"	v
+M1000	PY_fig_3_incomplete.py	/^M1000 = PopIIIStar(1000, 10**1.1090, 10**7.3047, 1.307e8, 10.49, 10**6)$/;"	v
+M1000	PY_popIII_dmdetectors_capturefunc.py	/^M1000 = PopIIIStar(1000, 10**1.1090, 10**7.3047, 1.307e8, 10.49, 10**6)$/;"	v
+M1000	PY_practice_fig3.py	/^M1000 = PopIIIStar(1000, 10**1.1090, 10**7.3047, 1.307e8, 10.49, 10**6)$/;"	v
+M15	PY_effective_temp.py	/^M15 = PopIIIStar(15, 1.515, 3.156, 2.34e4)$/;"	v
+M1_5	PY_effective_temp.py	/^M1_5 = PopIIIStar(1.5, .954, 1.257, 10.5)$/;"	v
+M2	PY_effective_temp.py	/^M2 = PopIIIStar(2, 1.025, 1.401, 32.9)$/;"	v
+M20	PY_effective_temp.py	/^M20 = PopIIIStar(20, 1.653, 3.488, 5.11e4)$/;"	v
+M200	PY_effective_temp.py	/^M200 = PopIIIStar(200, 6.14, 5.723, 3.97e6)$/;"	v
+M3	PY_effective_temp.py	/^M3 = PopIIIStar(3, 1.119, 1.642, 146)$/;"	v
+M30	PY_effective_temp.py	/^M30 = PopIIIStar(30, 2.123, 3.769, 1.45e5)$/;"	v
+M300	PY_BH_Exclusion.py	/^M300 = PopIIIStar(300, 10**0.8697, 10**6.8172, 1.245e8, 18.8, 10**6)$/;"	v
+M300	PY_DMCoreMass.py	/^M300 = PopIIIStar(300, 10**0.8697, 10**6.8172, 1.245e8, 18.8, 10**6)$/;"	v
+M300	PY_calculating_evap_rates.py	/^M300 = PopIIIStar(300, 10**0.8697, 10**6.8172, 1.245e8, 18.8, 10**6)$/;"	v
+M300	PY_capture_plotting_practice.py	/^M300 = PopIIIStar(300, 10**0.8697, 10**6.8172, 1.245e8, 18.8, 10**6)$/;"	v
+M300	PY_effective_temp.py	/^M300 = PopIIIStar(300, 7.408, 6.382, 6.57e6)$/;"	v
+M300	PY_fig_3_incomplete.py	/^M300 = PopIIIStar(300, 10**0.8697, 10**6.8172, 1.245e8, 18.8, 10**6)$/;"	v
+M300	PY_popIII_dmdetectors_capturefunc.py	/^M300 = PopIIIStar(300, 10**0.8697, 10**6.8172, 1.245e8, 18.8, 10**6)$/;"	v
+M300	PY_practice_fig3.py	/^M300 = PopIIIStar(300, 10**0.8697, 10**6.8172, 1.245e8, 18.8, 10**6)$/;"	v
+M400	PY_effective_temp.py	/^M400 = PopIIIStar(400, 9.03, 6.674, 9.89e6)$/;"	v
+M5	PY_effective_temp.py	/^M5 = PopIIIStar(5, 1.233, 2.019, 846)$/;"	v
+M50	PY_effective_temp.py	/^M50 = PopIIIStar(50, 2.864, 4.19, 4.25e5)$/;"	v
+M600	PY_effective_temp.py	/^M600 = PopIIIStar(600, 11.24, 7.326, 1.61e7)$/;"	v
+MDM_1000M_dat	PY_DMCoreMass.py	/^    MDM_1000M_dat = np.asarray(M_DM[1][0])$/;"	v
+MDM_300M_dat	PY_DMCoreMass.py	/^    MDM_300M_dat = np.asarray(M_DM[0][0])$/;"	v
+M_DM	PY_DMCoreMass.py	/^    M_DM = [ [ [],[] ],[ [],[] ] ]$/;"	v
+N_chi	PY_DMCoreMass.py	/^    N_chi = [ [ [],[] ],[ [],[] ] ]$/;"	v
+N_chi_func_22	PY_DMCoreMass.py	/^def N_chi_func_22(mx, sigma, star, rho_chi, vbar, E):$/;"	f
+N_chi_func_32	PY_DMCoreMass.py	/^def N_chi_func_32(mx, sigma, star, rho_chi, vbar, E):$/;"	f
+PopIIIStar	PY_BH_Exclusion.py	/^class PopIIIStar:$/;"	c
+PopIIIStar	PY_DMCoreMass.py	/^class PopIIIStar:$/;"	c
+PopIIIStar	PY_calculating_evap_rates.py	/^class PopIIIStar:$/;"	c
+PopIIIStar	PY_capture_plotting_practice.py	/^class PopIIIStar:$/;"	c
+PopIIIStar	PY_effective_temp.py	/^class PopIIIStar:$/;"	c
+PopIIIStar	PY_fig_3_incomplete.py	/^class PopIIIStar:$/;"	c
+PopIIIStar	PY_popIII_dmdetectors_capturefunc.py	/^class PopIIIStar:$/;"	c
+PopIIIStar	PY_practice_fig3.py	/^class PopIIIStar:$/;"	c
+R	PY_BH_Exclusion.py	/^R = np.power(10,[0.8697, 1.1090])$/;"	v
+R	PY_DMCoreMass.py	/^R = np.power(10,[0.8697, 1.1090])$/;"	v
+R	PY_capture_plotting_practice.py	/^R = np.power(10,[0.6147, 0.8697, 1.1090])$/;"	v
+R	PY_fig_3_incomplete.py	/^R = np.power(10,[0.8697, 1.1090])$/;"	v
+R	PY_practice_fig3.py	/^R = np.power(10,[0.8697, 1.1090])$/;"	v
+R_gould	PY_calculating_evap_rates.py	/^def R_gould(mx, xi, sigma, star):$/;"	f
+TT	PY_effective_temp.py	/^TT = []$/;"	v
+T_eff	PY_effective_temp.py	/^T_eff = []$/;"	v
+T_eff_DM	PY_effective_temp.py	/^T_eff_DM = []$/;"	v
+T_effective	PY_effective_temp.py	/^def T_effective(star):$/;"	f
+T_effective_DM	PY_effective_temp.py	/^def T_effective_DM(star):$/;"	f
+Vj	PY_DMCoreMass.py	/^    Vj = [[],[]]$/;"	v
+Vj_Eff_SP	PY_DMCoreMass.py	/^def Vj_Eff_SP(star, mx, j):$/;"	f
+Vj_Eff_SP	PY_practice_fig3.py	/^def Vj_Eff_SP(star, mx, j):$/;"	f
+Vj_Eff_calcFunction_SP	PY_DMCoreMass.py	/^def Vj_Eff_calcFunction_SP(R, j, rx):$/;"	f
+Vj_Eff_calcFunction_SP	PY_practice_fig3.py	/^def Vj_Eff_calcFunction_SP(R, j, rx):$/;"	f
+Vj_approx	PY_DMCoreMass.py	/^    Vj_approx = [[],[]]$/;"	v
+Vj_approx2	PY_DMCoreMass.py	/^    Vj_approx2 = [[],[]]$/;"	v
+Vj_poly3	PY_DMCoreMass.py	/^def Vj_poly3(j, mx, star):$/;"	f
+__init__	PY_BH_Exclusion.py	/^    def __init__(self, M = 0, R = 0, L = 0, Tc = 0, rhoc = 0, life_star = 0):$/;"	m	class:PopIIIStar
+__init__	PY_DMCoreMass.py	/^    def __init__(self, M = 0, R = 0, L = 0, Tc = 0, rhoc = 0, life_star = 0):$/;"	m	class:PopIIIStar
+__init__	PY_calculating_evap_rates.py	/^    def __init__(self, M = 0, R = 0, L = 0, Tc = 0, rhoc = 0, life_star = 0):$/;"	m	class:PopIIIStar
+__init__	PY_capture_plotting_practice.py	/^    def __init__(self, M = 0, R = 0, L = 0, Tc = 0, rhoc = 0, life_star = 0):$/;"	m	class:PopIIIStar
+__init__	PY_effective_temp.py	/^    def __init__(self, M = 0, R = 0, vesc = 0, Lnuc = 0):$/;"	m	class:PopIIIStar
+__init__	PY_fig_3_incomplete.py	/^    def __init__(self, M = 0, R = 0, L = 0, Tc = 0, rhoc = 0, life_star = 0):$/;"	m	class:PopIIIStar
+__init__	PY_popIII_dmdetectors_capturefunc.py	/^    def __init__(self, M = 0, R = 0, L = 0, Tc = 0, rhoc = 0, life_star = 0):$/;"	m	class:PopIIIStar
+__init__	PY_practice_fig3.py	/^    def __init__(self, M = 0, R = 0, L = 0, Tc = 0, rhoc = 0, life_star = 0):$/;"	m	class:PopIIIStar
+alpha	PY_calculating_evap_rates.py	/^def alpha(plus_minus, mx, q, z, xi, star):$/;"	f
+ann_type	PY_BH_Exclusion.py	/^ann_type = 22 #3-->2 annihilations$/;"	v
+ann_type	PY_DMCoreMass.py	/^ann_type = 22 #2-->2 annihilations$/;"	v
+ann_type	PY_fig_3_incomplete.py	/^ann_type = 22 #3-->2 annihilations$/;"	v
+ann_type	PY_practice_fig3.py	/^ann_type = 22 #3-->2 annihilations$/;"	v
+annihilation_radius	PY_practice_fig3.py	/^def annihilation_radius(rho_AP, nb_ann, z = 7):$/;"	f
+area_color	PY_BH_Exclusion.py	/^    area_color = list(colors)$/;"	v
+area_color	PY_DMCoreMass.py	/^        area_color = list(colors)$/;"	v
+area_color	PY_capture_plotting_practice.py	/^    area_color = list(colors)$/;"	v
+area_color	PY_fig_3_incomplete.py	/^    area_color = list(colors)$/;"	v
+area_color	PY_practice_fig3.py	/^    area_color = list(colors)$/;"	v
+baryonic_core_density	PY_practice_fig3.py	/^def baryonic_core_density(nb_core):$/;"	f
+baryonic_core_radius	PY_practice_fig3.py	/^def baryonic_core_radius(nb_core, z = 7):$/;"	f
+beta	PY_calculating_evap_rates.py	/^def beta(plus_minus, mx, q, z, xi, star):$/;"	f
+c	PY_DMCoreMass.py	/^c = 3e10 #Speed of light in SI units$/;"	v
+c	PY_practice_fig3.py	/^c = 3e10 #Speed of light in SI units$/;"	v
+captureN_pureH	PY_BH_Exclusion.py	/^def captureN_pureH(star, Mchi, rho_chi, vbar, sigma_xenon):$/;"	f
+captureN_pureH	PY_DMCoreMass.py	/^def captureN_pureH(star, Mchi, rho_chi, vbar, sigma_xenon):$/;"	f
+captureN_pureH	PY_calculating_evap_rates.py	/^def captureN_pureH(star, Mchi, rho_chi, vbar, sigma_xenon):$/;"	f
+captureN_pureH	PY_capture_plotting_practice.py	/^def captureN_pureH(star, Mchi, rho_chi, vbar, sigma_xenon):$/;"	f
+captureN_pureH	PY_fig_3_incomplete.py	/^def captureN_pureH(star, Mchi, rho_chi, vbar, sigma_xenon):$/;"	f
+captureN_pureH	PY_popIII_dmdetectors_capturefunc.py	/^def captureN_pureH(star, Mchi, rho_chi, vbar, sigma_xenon):$/;"	f
+captureN_pureH	PY_practice_fig3.py	/^def captureN_pureH(star, Mchi, rho_chi, vbar, sigma_xenon):$/;"	f
+capture_analytic	PY_DMCoreMass.py	/^def capture_analytic(mx, star, rhox, vbar, sigma):$/;"	f
+capture_analytic	PY_calculating_evap_rates.py	/^def capture_analytic(mx, star, rhox, vbar, sigma):$/;"	f
+capture_analytic	PY_popIII_dmdetectors_capturefunc.py	/^def capture_analytic(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionI	PY_DMCoreMass.py	/^def capture_regionI(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionI	PY_calculating_evap_rates.py	/^def capture_regionI(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionI	PY_popIII_dmdetectors_capturefunc.py	/^def capture_regionI(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionII	PY_DMCoreMass.py	/^def capture_regionII(mx, star, rhox, vbar):$/;"	f
+capture_regionII	PY_calculating_evap_rates.py	/^def capture_regionII(mx, star, rhox, vbar):$/;"	f
+capture_regionII	PY_popIII_dmdetectors_capturefunc.py	/^def capture_regionII(mx, star, rhox, vbar):$/;"	f
+capture_regionIII	PY_DMCoreMass.py	/^def capture_regionIII(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionIII	PY_calculating_evap_rates.py	/^def capture_regionIII(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionIII	PY_popIII_dmdetectors_capturefunc.py	/^def capture_regionIII(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionIV	PY_DMCoreMass.py	/^def capture_regionIV(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionIV	PY_calculating_evap_rates.py	/^def capture_regionIV(mx, star, rhox, vbar, sigma):$/;"	f
+capture_regionIV	PY_popIII_dmdetectors_capturefunc.py	/^def capture_regionIV(mx, star, rhox, vbar, sigma):$/;"	f
+chi_func	PY_calculating_evap_rates.py	/^def chi_func(a,b):$/;"	f
+colors	PY_BH_Exclusion.py	/^    colors = palette(i\/len(M))$/;"	v
+colors	PY_DMCoreMass.py	/^        colors = palette(i\/len(M))$/;"	v
+colors	PY_DMCoreMass.py	/^        colors = palette(i\/len(mchi))$/;"	v
+colors	PY_capture_plotting_practice.py	/^    colors = palette(i\/len(stars_list))$/;"	v
+colors	PY_fig_3_incomplete.py	/^    colors = palette(i\/len(M))$/;"	v
+colors	PY_practice_fig3.py	/^    colors = palette(i\/len(M))$/;"	v
+csv_reader	PY_BH_Exclusion.py	/^    csv_reader = csv.reader(csv_file, delimiter=',')$/;"	v
+csv_reader	PY_DMCoreMass.py	/^    csv_reader = csv.reader(csv_file, delimiter=',')$/;"	v
+csv_reader	PY_fig_3_incomplete.py	/^    csv_reader = csv.reader(csv_file, delimiter=',')$/;"	v
+csv_reader	PY_practice_fig3.py	/^    csv_reader = csv.reader(csv_file, delimiter=',')$/;"	v
+dm_speed	PY_calculating_evap_rates.py	/^def dm_speed(mx, star):$/;"	f
+eta_proton	PY_calculating_evap_rates.py	/^def eta_proton(xi):$/;"	f
+evap_coeff_G	PY_calculating_evap_rates.py	/^def evap_coeff_G(mx, sigma, star):$/;"	f
+evap_coeff_Ilie_approx2	PY_DMCoreMass.py	/^def evap_coeff_Ilie_approx2(mx, sigma, star):$/;"	f
+fig	PY_BH_Exclusion.py	/^fig = plt.figure(figsize = (12, 10))$/;"	v
+fig	PY_DMCoreMass.py	/^    fig = plt.figure(figsize = (12, 10))$/;"	v
+fig	PY_capture_plotting_practice.py	/^fig = plt.figure(figsize = (12, 10))$/;"	v
+fig	PY_effective_temp.py	/^fig = plt.figure(figsize = (12, 10))$/;"	v
+fig	PY_fig_3_incomplete.py	/^fig = plt.figure(figsize = (12, 10))$/;"	v
+fig	PY_practice_fig3.py	/^fig = plt.figure(figsize = (12, 10))$/;"	v
+fig2	PY_DMCoreMass.py	/^    fig2 = plt.figure(figsize = (12, 10))$/;"	v
+fig2	PY_effective_temp.py	/^fig2 = plt.figure(figsize = (12, 10))$/;"	v
+fig3	PY_DMCoreMass.py	/^    fig3 = plt.figure(figsize = (12, 10))$/;"	v
+fig3	PY_effective_temp.py	/^fig3 = plt.figure(figsize = (12, 10))$/;"	v
+file	PY_DMCoreMass.py	/^    file = "highmchi_MDM_1000M.csv"$/;"	v
+file	PY_DMCoreMass.py	/^    file = "highmchi_MDM_300M.csv"$/;"	v
+file	PY_DMCoreMass.py	/^    file = "mchi_MDM_1000M_highsig.csv"$/;"	v
+file	PY_DMCoreMass.py	/^    file = "mchi_MDM_1000M_lowsig.csv"$/;"	v
+file	PY_DMCoreMass.py	/^    file = "mchi_MDM_300M_highsig.csv"$/;"	v
+file	PY_DMCoreMass.py	/^    file = "mchi_MDM_300M_lowsig.csv"$/;"	v
+file	PY_calculating_evap_rates.py	/^file = "mchi_E_300M.csv"$/;"	v
+frac_tau	PY_BH_Exclusion.py	/^frac_tau = 0.01$/;"	v
+frac_tau	PY_DMCoreMass.py	/^frac_tau = 0.01$/;"	v
+frac_tau	PY_fig_3_incomplete.py	/^frac_tau = 0.01$/;"	v
+frac_tau	PY_practice_fig3.py	/^frac_tau = 0.01$/;"	v
+gamma_gould	PY_calculating_evap_rates.py	/^def gamma_gould(pm, mx, xi, star):$/;"	f
+get_AC_Profile	PY_practice_fig3.py	/^def get_AC_Profile(z = 7):$/;"	f
+get_Eddington_lum_cgs	PY_effective_temp.py	/^    def get_Eddington_lum_cgs(self):$/;"	m	class:PopIIIStar
+get_Lnuc_cgs	PY_effective_temp.py	/^    def get_Lnuc_cgs(self):$/;"	m	class:PopIIIStar
+get_mass_grams	PY_BH_Exclusion.py	/^    def get_mass_grams(self):$/;"	m	class:PopIIIStar
+get_mass_grams	PY_DMCoreMass.py	/^    def get_mass_grams(self):$/;"	m	class:PopIIIStar
+get_mass_grams	PY_calculating_evap_rates.py	/^    def get_mass_grams(self):$/;"	m	class:PopIIIStar
+get_mass_grams	PY_capture_plotting_practice.py	/^    def get_mass_grams(self):$/;"	m	class:PopIIIStar
+get_mass_grams	PY_effective_temp.py	/^    def get_mass_grams(self):$/;"	m	class:PopIIIStar
+get_mass_grams	PY_fig_3_incomplete.py	/^    def get_mass_grams(self):$/;"	m	class:PopIIIStar
+get_mass_grams	PY_popIII_dmdetectors_capturefunc.py	/^    def get_mass_grams(self):$/;"	m	class:PopIIIStar
+get_mass_grams	PY_practice_fig3.py	/^    def get_mass_grams(self):$/;"	m	class:PopIIIStar
+get_num_density	PY_BH_Exclusion.py	/^    def get_num_density(self):$/;"	m	class:PopIIIStar
+get_num_density	PY_DMCoreMass.py	/^    def get_num_density(self):$/;"	m	class:PopIIIStar
+get_num_density	PY_calculating_evap_rates.py	/^    def get_num_density(self):$/;"	m	class:PopIIIStar
+get_num_density	PY_capture_plotting_practice.py	/^    def get_num_density(self):$/;"	m	class:PopIIIStar
+get_num_density	PY_effective_temp.py	/^    def get_num_density(self):$/;"	m	class:PopIIIStar
+get_num_density	PY_fig_3_incomplete.py	/^    def get_num_density(self):$/;"	m	class:PopIIIStar
+get_num_density	PY_popIII_dmdetectors_capturefunc.py	/^    def get_num_density(self):$/;"	m	class:PopIIIStar
+get_num_density	PY_practice_fig3.py	/^    def get_num_density(self):$/;"	m	class:PopIIIStar
+get_radius_cm	PY_BH_Exclusion.py	/^    def get_radius_cm(self):$/;"	m	class:PopIIIStar
+get_radius_cm	PY_DMCoreMass.py	/^    def get_radius_cm(self):$/;"	m	class:PopIIIStar
+get_radius_cm	PY_calculating_evap_rates.py	/^    def get_radius_cm(self):$/;"	m	class:PopIIIStar
+get_radius_cm	PY_capture_plotting_practice.py	/^    def get_radius_cm(self):$/;"	m	class:PopIIIStar
+get_radius_cm	PY_effective_temp.py	/^    def get_radius_cm(self):$/;"	m	class:PopIIIStar
+get_radius_cm	PY_fig_3_incomplete.py	/^    def get_radius_cm(self):$/;"	m	class:PopIIIStar
+get_radius_cm	PY_popIII_dmdetectors_capturefunc.py	/^    def get_radius_cm(self):$/;"	m	class:PopIIIStar
+get_radius_cm	PY_practice_fig3.py	/^    def get_radius_cm(self):$/;"	m	class:PopIIIStar
+get_vesc_surf	PY_BH_Exclusion.py	/^    def get_vesc_surf(self):$/;"	m	class:PopIIIStar
+get_vesc_surf	PY_DMCoreMass.py	/^    def get_vesc_surf(self):$/;"	m	class:PopIIIStar
+get_vesc_surf	PY_calculating_evap_rates.py	/^    def get_vesc_surf(self):$/;"	m	class:PopIIIStar
+get_vesc_surf	PY_capture_plotting_practice.py	/^    def get_vesc_surf(self):$/;"	m	class:PopIIIStar
+get_vesc_surf	PY_fig_3_incomplete.py	/^    def get_vesc_surf(self):$/;"	m	class:PopIIIStar
+get_vesc_surf	PY_popIII_dmdetectors_capturefunc.py	/^    def get_vesc_surf(self):$/;"	m	class:PopIIIStar
+get_vesc_surf	PY_practice_fig3.py	/^    def get_vesc_surf(self):$/;"	m	class:PopIIIStar
+get_vesc_surf_cgs	PY_effective_temp.py	/^    def get_vesc_surf_cgs(self):$/;"	m	class:PopIIIStar
+get_vol	PY_BH_Exclusion.py	/^    def get_vol(self):$/;"	m	class:PopIIIStar
+get_vol	PY_DMCoreMass.py	/^    def get_vol(self):$/;"	m	class:PopIIIStar
+get_vol	PY_calculating_evap_rates.py	/^    def get_vol(self):$/;"	m	class:PopIIIStar
+get_vol	PY_capture_plotting_practice.py	/^    def get_vol(self):$/;"	m	class:PopIIIStar
+get_vol	PY_effective_temp.py	/^    def get_vol(self):$/;"	m	class:PopIIIStar
+get_vol	PY_fig_3_incomplete.py	/^    def get_vol(self):$/;"	m	class:PopIIIStar
+get_vol	PY_popIII_dmdetectors_capturefunc.py	/^    def get_vol(self):$/;"	m	class:PopIIIStar
+get_vol	PY_practice_fig3.py	/^    def get_vol(self):$/;"	m	class:PopIIIStar
+hbar	PY_DMCoreMass.py	/^hbar = 1.05e-27 #hbar in SI units$/;"	v
+hbar	PY_practice_fig3.py	/^hbar = 1.05e-27 #hbar in SI units$/;"	v
+integrand_Vj_poly3	PY_DMCoreMass.py	/^def integrand_Vj_poly3(xi, j, mx, star):$/;"	f
+integrand_bottom_Ca	PY_DMCoreMass.py	/^    def integrand_bottom_Ca(xi, mx, star):$/;"	f	function:Ca_22	file:
+integrand_bottom_Ca	PY_DMCoreMass.py	/^    def integrand_bottom_Ca(xi, mx, star):$/;"	f	function:Ca_321	file:
+integrand_bottom_Ca_cgs	PY_DMCoreMass.py	/^    def integrand_bottom_Ca_cgs(r, mx, star):$/;"	f	function:Ca_22	file:
+integrand_bottom_sigv	PY_practice_fig3.py	/^        def integrand_bottom_sigv(xi, mx, star):$/;"	f	function:sigv32SM_lower_bound_numerical	file:
+integrand_top_Ca	PY_DMCoreMass.py	/^    def integrand_top_Ca(xi, mx, star):$/;"	f	function:Ca_22	file:
+integrand_top_Ca	PY_DMCoreMass.py	/^    def integrand_top_Ca(xi, mx, star):$/;"	f	function:Ca_321	file:
+integrand_top_Ca_cgs	PY_DMCoreMass.py	/^    def integrand_top_Ca_cgs(r, mx, star):$/;"	f	function:Ca_22	file:
+integrand_top_sigv	PY_practice_fig3.py	/^        def integrand_top_sigv(xi, mx, star):$/;"	f	function:sigv32SM_lower_bound_numerical	file:
+intercept	PY_DMCoreMass.py	/^        slope, intercept = np.polyfit(np.log(mchi), np.log(rchi[i]), 1)$/;"	v
+intercept	PY_DMCoreMass.py	/^    slope, intercept = np.polyfit(np.log(sigma), np.log(M_DM[0][0]), 1)$/;"	v
+j	PY_DMCoreMass.py	/^    j = 1$/;"	v
+kappa_evap22	PY_DMCoreMass.py	/^def kappa_evap22(mx, sigma, star, rho_chi, vbar, E):$/;"	f
+kappa_evap321	PY_DMCoreMass.py	/^def kappa_evap321(mx, sigma, star, rho_chi, vbar, E):$/;"	f
+kb	PY_DMCoreMass.py	/^kb = 1.380649e-16 #Boltzmann constant in cgs Units (erg\/K)$/;"	v
+kb	PY_practice_fig3.py	/^kb = 1.380649e-16 #Boltzmann constant in cgs Units (erg\/K)$/;"	v
+logt	PY_BH_Exclusion.py	/^logt = np.log10(t)$/;"	v
+logt	PY_practice_fig3.py	/^logt = np.log10(t)$/;"	v
+lower_integrand_G	PY_calculating_evap_rates.py	/^def lower_integrand_G(xi, mx, sigma, star):$/;"	f
+mchi	PY_BH_Exclusion.py	/^mchi = np.logspace(1, 15, 28)$/;"	v
+mchi	PY_DMCoreMass.py	/^    mchi = 10**-2$/;"	v
+mchi	PY_DMCoreMass.py	/^    mchi = [10**-4, 10**-2, 10**0]$/;"	v
+mchi	PY_DMCoreMass.py	/^    mchi = np.logspace(-4, -1, 100)$/;"	v
+mchi	PY_DMCoreMass.py	/^    mchi = np.logspace(-4, 5, 60)$/;"	v
+mchi	PY_calculating_evap_rates.py	/^mchi = np.logspace(1, 3, 28)$/;"	v
+mchi	PY_capture_plotting_practice.py	/^mchi = np.logspace(1, 15, 28)$/;"	v
+mchi	PY_fig_3_incomplete.py	/^mchi = np.logspace(1, 15, 28)$/;"	v
+mchi	PY_practice_fig3.py	/^mchi = np.logspace(1, 15, 28)$/;"	v
+mchi_1000M_dat	PY_DMCoreMass.py	/^    mchi_1000M_dat = np.asarray(mchi_1000M_dat)$/;"	v
+mchi_1000M_dat	PY_DMCoreMass.py	/^mchi_1000M_dat = []$/;"	v
+mchi_1000M_dat	PY_calculating_evap_rates.py	/^mchi_1000M_dat = np.asarray(mchi)$/;"	v
+mchi_300M_dat	PY_DMCoreMass.py	/^    mchi_300M_dat = np.asarray(mchi_300M_dat)$/;"	v
+mchi_300M_dat	PY_DMCoreMass.py	/^mchi_300M_dat = []$/;"	v
+mchi_300M_dat	PY_calculating_evap_rates.py	/^mchi_300M_dat = np.asarray(mchi)$/;"	v
+mchi_P60NF_dat	PY_BH_Exclusion.py	/^mchi_P60NF_dat = []$/;"	v
+mchi_P60NF_dat	PY_fig_3_incomplete.py	/^mchi_P60NF_dat = []$/;"	v
+mchi_P60NF_dat	PY_practice_fig3.py	/^mchi_P60NF_dat = []$/;"	v
+mchi_P60_dat	PY_BH_Exclusion.py	/^mchi_P60_dat = []$/;"	v
+mchi_P60_dat	PY_fig_3_incomplete.py	/^mchi_P60_dat = []$/;"	v
+mchi_P60_dat	PY_practice_fig3.py	/^mchi_P60_dat = []$/;"	v
+mchi_XNF_dat	PY_BH_Exclusion.py	/^mchi_XNF_dat = []$/;"	v
+mchi_XNF_dat	PY_fig_3_incomplete.py	/^mchi_XNF_dat = []$/;"	v
+mchi_XNF_dat	PY_practice_fig3.py	/^mchi_XNF_dat = []$/;"	v
+mchi_XSI_dat	PY_BH_Exclusion.py	/^mchi_XSI_dat = []$/;"	v
+mchi_XSI_dat	PY_fig_3_incomplete.py	/^mchi_XSI_dat = []$/;"	v
+mchi_XSI_dat	PY_practice_fig3.py	/^mchi_XSI_dat = []$/;"	v
+mchi_dat	PY_DMCoreMass.py	/^    mchi_dat = [mchi_300M_dat, mchi_1000M_dat]$/;"	v
+mchi_dat	PY_DMCoreMass.py	/^    mchi_dat = np.logspace(0, 15, 28)$/;"	v
+mchi_nf	PY_BH_Exclusion.py	/^mchi_nf = np.logspace(2.9, 15, 16)$/;"	v
+mchi_nf	PY_fig_3_incomplete.py	/^mchi_nf = np.logspace(2.9, 15, 16)$/;"	v
+mchi_nf	PY_practice_fig3.py	/^mchi_nf = np.logspace(2.9, 15, 16)$/;"	v
+mchi_pico	PY_BH_Exclusion.py	/^mchi_pico = np.logspace(2.9, 15, 16)$/;"	v
+mchi_pico	PY_capture_plotting_practice.py	/^mchi_pico = []$/;"	v
+mchi_pico	PY_fig_3_incomplete.py	/^mchi_pico = np.logspace(2.9, 15, 16)$/;"	v
+mchi_pico	PY_practice_fig3.py	/^mchi_pico = np.logspace(2.9, 15, 16)$/;"	v
+mchi_xenon	PY_BH_Exclusion.py	/^mchi_xenon = np.logspace(2.9, 15, 16)$/;"	v
+mchi_xenon	PY_capture_plotting_practice.py	/^mchi_xenon = np.logspace(1, 15, 16)$/;"	v
+mchi_xenon	PY_fig_3_incomplete.py	/^mchi_xenon = np.logspace(2.9, 15, 16)$/;"	v
+mchi_xenon	PY_practice_fig3.py	/^mchi_xenon = np.logspace(2.9, 15, 16)$/;"	v
+mp	PY_BH_Exclusion.py	/^import mpmath as mp$/;"	I	nameref:module:mpmath
+mp	PY_DMCoreMass.py	/^import mpmath as mp$/;"	I	nameref:module:mpmath
+mp	PY_calculating_evap_rates.py	/^import mpmath as mp$/;"	I	nameref:module:mpmath
+mp	PY_capture_plotting_practice.py	/^import mpmath as mp$/;"	I	nameref:module:mpmath
+mp	PY_effective_temp.py	/^import mpmath as mp$/;"	I	nameref:module:mpmath
+mp	PY_fig_3_incomplete.py	/^import mpmath as mp$/;"	I	nameref:module:mpmath
+mp	PY_popIII_dmdetectors_capturefunc.py	/^import mpmath as mp$/;"	I	nameref:module:mpmath
+mp	PY_practice_fig3.py	/^import mpmath as mp$/;"	I	nameref:module:mpmath
+mu	PY_calculating_evap_rates.py	/^def mu(mx):#take mx in GeV$/;"	f
+mu_plus_minus	PY_calculating_evap_rates.py	/^def mu_plus_minus(plus_minus, mx):$/;"	f
+mx_tau_fit	PY_DMCoreMass.py	/^    mx_tau_fit, tau_temp = retrieve_tau(star)$/;"	v
+mx_tau_fit	PY_calculating_evap_rates.py	/^    mx_tau_fit, tau_temp = retrieve_tau(star)$/;"	v
+mx_tau_fit	PY_practice_fig3.py	/^    mx_tau_fit, tau_temp = retrieve_tau(star)$/;"	v
+n_baryons	PY_BH_Exclusion.py	/^n_baryons = np.array([14.5, 18.2])$/;"	v
+n_baryons	PY_practice_fig3.py	/^n_baryons = np.array([14.5, 18.2])$/;"	v
+nchi	PY_DMCoreMass.py	/^    nchi = [[], [], []]$/;"	v
+normalize_factor	PY_calculating_evap_rates.py	/^def normalize_factor(mx, xi, star):$/;"	f
+np	PY_BH_Exclusion.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	PY_DMCoreMass.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	PY_calculating_evap_rates.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	PY_capture_plotting_practice.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	PY_effective_temp.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	PY_fig_3_incomplete.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	PY_popIII_dmdetectors_capturefunc.py	/^import numpy as np$/;"	I	nameref:module:numpy
+np	PY_practice_fig3.py	/^import numpy as np$/;"	I	nameref:module:numpy
+nu_gould	PY_calculating_evap_rates.py	/^def nu_gould(mx, xi, star):$/;"	f
+nx_r	PY_DMCoreMass.py	/^def nx_r(mx, r, star): #Normalized$/;"	f
+nx_xi	PY_DMCoreMass.py	/^def nx_xi(mx, xi, star): #Normalized$/;"	f
+nx_xi	PY_calculating_evap_rates.py	/^def nx_xi(mx, xi, star): #Normalized$/;"	f
+output	PY_DMCoreMass.py	/^    output = np.column_stack((mchi_1000M_dat.flatten(), MDM_1000M_dat.flatten()))$/;"	v
+output	PY_DMCoreMass.py	/^    output = np.column_stack((mchi_300M_dat.flatten(), MDM_300M_dat.flatten()))$/;"	v
+output	PY_calculating_evap_rates.py	/^output = np.column_stack((mchi_1000M_dat.flatten(), E_1000M_highmchi_dat.flatten()))$/;"	v
+output	PY_calculating_evap_rates.py	/^output = np.column_stack((mchi_300M_dat.flatten(), E_300M_highmchi_dat.flatten()))$/;"	v
+palette	PY_BH_Exclusion.py	/^palette = plt.get_cmap('viridis')$/;"	v
+palette	PY_DMCoreMass.py	/^    palette = plt.get_cmap('cividis')$/;"	v
+palette	PY_DMCoreMass.py	/^    palette = plt.get_cmap('inferno')$/;"	v
+palette	PY_DMCoreMass.py	/^    palette = plt.get_cmap('plasma')$/;"	v
+palette	PY_DMCoreMass.py	/^    palette = plt.get_cmap('viridis')$/;"	v
+palette	PY_capture_plotting_practice.py	/^palette = plt.get_cmap('viridis')$/;"	v
+palette	PY_effective_temp.py	/^palette = plt.get_cmap('viridis')$/;"	v
+palette	PY_fig_3_incomplete.py	/^palette = plt.get_cmap('viridis')$/;"	v
+palette	PY_practice_fig3.py	/^palette = plt.get_cmap('viridis')$/;"	v
+pico_bounds	PY_capture_plotting_practice.py	/^pico_bounds = [106.44008913464546 ,4.766371200993853e-41,\\$/;"	v
+pico_data	PY_capture_plotting_practice.py	/^pico_data = []$/;"	v
+pico_fit	PY_capture_plotting_practice.py	/^pico_fit = np.polyfit(mchi_pico, pico_sigma, 1)$/;"	v
+pico_sigma	PY_capture_plotting_practice.py	/^pico_sigma = []$/;"	v
+plottype	PY_DMCoreMass.py	/^plottype = input("Enter 'low mchi' for sub-GeV plot or 'high mchi' for massive DM particles.\\nE/;"	v
+plt	PY_BH_Exclusion.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	PY_DMCoreMass.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	PY_calculating_evap_rates.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	PY_capture_plotting_practice.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	PY_effective_temp.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	PY_fig_3_incomplete.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	PY_popIII_dmdetectors_capturefunc.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+plt	PY_practice_fig3.py	/^import matplotlib.pyplot as plt$/;"	I	nameref:module:matplotlib.pyplot
+polytrope3_rhoc	PY_DMCoreMass.py	/^def polytrope3_rhoc(star):$/;"	f
+polytrope3_rhoc	PY_calculating_evap_rates.py	/^def polytrope3_rhoc(star):$/;"	f
+polytrope3_rhoc	PY_practice_fig3.py	/^def polytrope3_rhoc(star):$/;"	f
+potential_poly	PY_DMCoreMass.py	/^def potential_poly(xi, star):$/;"	f
+potential_poly	PY_calculating_evap_rates.py	/^def potential_poly(xi, star):$/;"	f
+proton_speed	PY_DMCoreMass.py	/^def proton_speed(xi, star):$/;"	f
+proton_speed	PY_calculating_evap_rates.py	/^def proton_speed(xi, star):$/;"	f
+pwave_sigV_freeze	PY_practice_fig3.py	/^def pwave_sigV_freeze(star, mx):$/;"	f
+rchi	PY_DMCoreMass.py	/^            rchi = ((9*kb*tau_fit(mchi[k], stars_list[i])*10**8)\/(4*np.pi*G*stars_list[i].core_/;"	v
+rchi	PY_DMCoreMass.py	/^    rchi = [[], []]$/;"	v
+retrieve_LaneEmden	PY_DMCoreMass.py	/^def retrieve_LaneEmden():$/;"	f
+retrieve_LaneEmden	PY_calculating_evap_rates.py	/^def retrieve_LaneEmden():$/;"	f
+retrieve_LaneEmden	PY_practice_fig3.py	/^def retrieve_LaneEmden():$/;"	f
+retrieve_tau	PY_DMCoreMass.py	/^def retrieve_tau(star):$/;"	f
+retrieve_tau	PY_calculating_evap_rates.py	/^def retrieve_tau(star):$/;"	f
+retrieve_tau	PY_practice_fig3.py	/^def retrieve_tau(star):$/;"	f
+rhoSigma_mchi_pureH	PY_DMCoreMass.py	/^def rhoSigma_mchi_pureH(M, R, L, Mchi, vbar, smallRv, smallTaus):$/;"	f
+rhoSigma_mchi_pureH	PY_calculating_evap_rates.py	/^def rhoSigma_mchi_pureH(M, R, L, Mchi, vbar, smallRv, smallTaus):$/;"	f
+rhoSigma_mchi_pureH	PY_popIII_dmdetectors_capturefunc.py	/^def rhoSigma_mchi_pureH(M, R, L, Mchi, vbar, smallRv, smallTaus):$/;"	f
+rhoSigma_mchi_pureH_T	PY_DMCoreMass.py	/^def rhoSigma_mchi_pureH_T(M, R, L, Mchi, vbar):$/;"	f
+rhoSigma_mchi_pureH_T	PY_calculating_evap_rates.py	/^def rhoSigma_mchi_pureH_T(M, R, L, Mchi, vbar):$/;"	f
+rhoSigma_mchi_pureH_T	PY_popIII_dmdetectors_capturefunc.py	/^def rhoSigma_mchi_pureH_T(M, R, L, Mchi, vbar):$/;"	f
+rho_adjust	PY_BH_Exclusion.py	/^rho_adjust = (19 - rho_core)$/;"	v
+rho_adjust	PY_practice_fig3.py	/^rho_adjust = (19 - rho_core)$/;"	v
+rho_amb	PY_BH_Exclusion.py	/^                rho_amb = rho_plateau * 10**rho_core[m]\/(rho_plateau + 10**rho_core[m])$/;"	v
+rho_amb	PY_practice_fig3.py	/^                rho_amb = rho_plateau * 10**rho_core[m]\/(rho_plateau + 10**rho_core[m])$/;"	v
+rho_chi_adjust	PY_BH_Exclusion.py	/^rho_chi_adjust = [10**6, 10**3]$/;"	v
+rho_chi_adjust	PY_DMCoreMass.py	/^rho_chi_adjust = [10**6, 10**3]$/;"	v
+rho_chi_adjust	PY_capture_plotting_practice.py	/^rho_chi_adjust = [10**6, 10**0]$/;"	v
+rho_chi_adjust	PY_fig_3_incomplete.py	/^rho_chi_adjust = [10**6, 10**3]$/;"	v
+rho_chi_adjust	PY_practice_fig3.py	/^rho_chi_adjust = [10**6, 10**3]$/;"	v
+rho_chi_list	PY_DMCoreMass.py	/^rho_chi_list = [10**13, 10**16]$/;"	v
+rho_chi_sigV	PY_BH_Exclusion.py	/^rho_chi_sigV = 10**14$/;"	v
+rho_chi_sigV	PY_DMCoreMass.py	/^rho_chi_sigV = 10**14$/;"	v
+rho_chi_sigV	PY_fig_3_incomplete.py	/^rho_chi_sigV = 10**14$/;"	v
+rho_chi_sigV	PY_practice_fig3.py	/^rho_chi_sigV = 10**14$/;"	v
+rho_core	PY_BH_Exclusion.py	/^rho_core = baryonic_core_density(n_baryons)$/;"	v
+rho_core	PY_practice_fig3.py	/^rho_core = baryonic_core_density(n_baryons)$/;"	v
+rho_gould	PY_calculating_evap_rates.py	/^def rho_gould(mx, xi, star):$/;"	f
+rho_mchi_pureH	PY_DMCoreMass.py	/^def rho_mchi_pureH(M, R, L, Mchi, vbar, sigma):$/;"	f
+rho_mchi_pureH	PY_calculating_evap_rates.py	/^def rho_mchi_pureH(M, R, L, Mchi, vbar, sigma):$/;"	f
+rho_mchi_pureH	PY_popIII_dmdetectors_capturefunc.py	/^def rho_mchi_pureH(M, R, L, Mchi, vbar, sigma):$/;"	f
+rho_mchi_pureH_SA	PY_DMCoreMass.py	/^def rho_mchi_pureH_SA(M, R, L, Mchi, vbar, sigma, smallRv, smallTau):$/;"	f
+rho_mchi_pureH_SA	PY_calculating_evap_rates.py	/^def rho_mchi_pureH_SA(M, R, L, Mchi, vbar, sigma, smallRv, smallTau):$/;"	f
+rho_mchi_pureH_SA	PY_popIII_dmdetectors_capturefunc.py	/^def rho_mchi_pureH_SA(M, R, L, Mchi, vbar, sigma, smallRv, smallTau):$/;"	f
+rho_mid_adjust	PY_capture_plotting_practice.py	/^rho_mid_adjust = 10**3 #For plotting rho = 10^16 Line$/;"	v
+rho_plat	PY_practice_fig3.py	/^def rho_plat(star, frac_life, mx, rho_chi, vbar, unit_bound, thermalBound, Ann_type, t, Swave = /;"	f
+rho_plateau	PY_BH_Exclusion.py	/^                rho_plateau = rho_plat(star, frac_tau, mchi[l], 10**(rho_core[m]), vbar, unitary/;"	v
+rho_plateau	PY_practice_fig3.py	/^                rho_plateau = rho_plat(star, frac_tau, mchi[l], 10**(rho_core[m]), vbar, unitary/;"	v
+rho_weak_cusp	PY_practice_fig3.py	/^def rho_weak_cusp(star, frac_life, mx, rho_chi, vbar, unit_bound, thermalBound, Ann_type, t, nb,/;"	f
+rx	PY_DMCoreMass.py	/^            rx = ((9*kb*tau_fit(mchi[k], stars_list[i])*10**8)\/(4*np.pi*G*stars_list[i].core_de/;"	v
+rx_Eff_SP	PY_DMCoreMass.py	/^def rx_Eff_SP(star, mx):$/;"	f
+rx_Eff_SP	PY_practice_fig3.py	/^def rx_Eff_SP(star, mx):$/;"	f
+sb_const	PY_effective_temp.py	/^sb_const = 5.6704*10**(-8) * 1000$/;"	v
+sc	PY_BH_Exclusion.py	/^import scipy.special as sc$/;"	I	nameref:module:scipy.special
+sc	PY_DMCoreMass.py	/^import scipy.special as sc$/;"	I	nameref:module:scipy.special
+sc	PY_calculating_evap_rates.py	/^import scipy.special as sc$/;"	I	nameref:module:scipy.special
+sc	PY_capture_plotting_practice.py	/^import scipy.special as sc$/;"	I	nameref:module:scipy.special
+sc	PY_effective_temp.py	/^import scipy.special as sc$/;"	I	nameref:module:scipy.special
+sc	PY_fig_3_incomplete.py	/^import scipy.special as sc$/;"	I	nameref:module:scipy.special
+sc	PY_popIII_dmdetectors_capturefunc.py	/^import scipy.special as sc$/;"	I	nameref:module:scipy.special
+sc	PY_practice_fig3.py	/^import scipy.special as sc$/;"	I	nameref:module:scipy.special
+series_approx	PY_DMCoreMass.py	/^            series_approx = (4\/3)*np.pi*(stars_list[i].get_radius_cm()**3)$/;"	v
+series_approx2	PY_DMCoreMass.py	/^            series_approx2 = (2*((2\/3)**(1\/2))*(np.pi**(3\/2))*rchi**3)\/(3*(j**(3\/2))) #+ np/;"	v
+sigV_lowerBound	PY_DMCoreMass.py	/^def sigV_lowerBound(star, frac_life, mx, rho_chi, vbar, sigma, Ann_type): #Using effective volum/;"	f
+sigV_lowerBound	PY_practice_fig3.py	/^def sigV_lowerBound(star, frac_life, mx, rho_chi, vbar, sigma_xenon, Ann_type): #Using effective/;"	f
+sig_temp	PY_BH_Exclusion.py	/^    sig_temp = []$/;"	v
+sig_temp	PY_practice_fig3.py	/^    sig_temp = []$/;"	v
+sigma	PY_BH_Exclusion.py	/^        sigma = []$/;"	v
+sigma	PY_BH_Exclusion.py	/^    sigma = []$/;"	v
+sigma	PY_DMCoreMass.py	/^    sigma = 10**-40$/;"	v
+sigma	PY_DMCoreMass.py	/^    sigma = 10**-46$/;"	v
+sigma	PY_DMCoreMass.py	/^    sigma = np.logspace(-50, -30, 16)$/;"	v
+sigma	PY_DMCoreMass.py	/^    sigma = np.logspace(-50, -30, 60)$/;"	v
+sigma	PY_calculating_evap_rates.py	/^sigma = 10**(-40)$/;"	v
+sigma	PY_capture_plotting_practice.py	/^    sigma = []$/;"	v
+sigma	PY_fig_3_incomplete.py	/^    sigma = []$/;"	v
+sigma	PY_practice_fig3.py	/^        sigma = []$/;"	v
+sigma	PY_practice_fig3.py	/^    sigma = []$/;"	v
+sigma_P60NF_dat	PY_BH_Exclusion.py	/^sigma_P60NF_dat = []$/;"	v
+sigma_P60NF_dat	PY_fig_3_incomplete.py	/^sigma_P60NF_dat = []$/;"	v
+sigma_P60NF_dat	PY_practice_fig3.py	/^sigma_P60NF_dat = []$/;"	v
+sigma_P60_dat	PY_BH_Exclusion.py	/^sigma_P60_dat = []$/;"	v
+sigma_P60_dat	PY_fig_3_incomplete.py	/^sigma_P60_dat = []$/;"	v
+sigma_P60_dat	PY_practice_fig3.py	/^sigma_P60_dat = []$/;"	v
+sigma_XNF_dat	PY_BH_Exclusion.py	/^sigma_XNF_dat = []$/;"	v
+sigma_XNF_dat	PY_fig_3_incomplete.py	/^sigma_XNF_dat = []$/;"	v
+sigma_XNF_dat	PY_practice_fig3.py	/^sigma_XNF_dat = []$/;"	v
+sigma_XSI_dat	PY_BH_Exclusion.py	/^sigma_XSI_dat = []$/;"	v
+sigma_XSI_dat	PY_fig_3_incomplete.py	/^sigma_XSI_dat = []$/;"	v
+sigma_XSI_dat	PY_practice_fig3.py	/^sigma_XSI_dat = []$/;"	v
+sigma_ann	PY_practice_fig3.py	/^def sigma_ann(star, frac_life, mx, rho_chi, vbar, unit_bound, thermalBound, Ann_type, Swave = Tr/;"	f
+sigma_mchi_pureH	PY_BH_Exclusion.py	/^def sigma_mchi_pureH(star, Mchi, rho_chi, vbar): #Takes M, R and L in solar units$/;"	f
+sigma_mchi_pureH	PY_DMCoreMass.py	/^def sigma_mchi_pureH(star, Mchi, rho_chi, vbar): #Takes M, R and L in solar units$/;"	f
+sigma_mchi_pureH	PY_calculating_evap_rates.py	/^def sigma_mchi_pureH(star, Mchi, rho_chi, vbar): #Takes M, R and L in solar units$/;"	f
+sigma_mchi_pureH	PY_capture_plotting_practice.py	/^def sigma_mchi_pureH(star, Mchi, rho_chi, vbar): #Takes M, R and L in solar units$/;"	f
+sigma_mchi_pureH	PY_fig_3_incomplete.py	/^def sigma_mchi_pureH(star, Mchi, rho_chi, vbar): #Takes M, R and L in solar units$/;"	f
+sigma_mchi_pureH	PY_popIII_dmdetectors_capturefunc.py	/^def sigma_mchi_pureH(star, Mchi, rho_chi, vbar): #Takes M, R and L in solar units$/;"	f
+sigma_mchi_pureH	PY_practice_fig3.py	/^def sigma_mchi_pureH(star, Mchi, rho_chi, vbar): #Takes M, R and L in solar units$/;"	f
+sigma_mid	PY_capture_plotting_practice.py	/^        sigma_mid = []$/;"	v
+sigma_pico	PY_BH_Exclusion.py	/^sigma_pico = 3.42e-40*(mchi_pico\/10**3)$/;"	v
+sigma_pico	PY_fig_3_incomplete.py	/^sigma_pico = 3.42e-40*(mchi_pico\/10**3)$/;"	v
+sigma_pico	PY_practice_fig3.py	/^sigma_pico = 3.42e-40*(mchi_pico\/10**3)$/;"	v
+sigma_picoNF	PY_BH_Exclusion.py	/^sigma_picoNF = 8.67e-47*(mchi_nf)$/;"	v
+sigma_picoNF	PY_fig_3_incomplete.py	/^sigma_picoNF = 8.67e-47*(mchi_nf)$/;"	v
+sigma_picoNF	PY_practice_fig3.py	/^sigma_picoNF = 8.67e-47*(mchi_nf)$/;"	v
+sigma_xenon1T	PY_BH_Exclusion.py	/^sigma_xenon1T = 9.2e-47*(mchi_xenon\/10**2)$/;"	v
+sigma_xenon1T	PY_capture_plotting_practice.py	/^sigma_xenon1T = 1.26*10**(-40)*(mchi_xenon\/10**8)$/;"	v
+sigma_xenon1T	PY_fig_3_incomplete.py	/^sigma_xenon1T = 9.2e-47*(mchi_xenon\/10**2)$/;"	v
+sigma_xenon1T	PY_practice_fig3.py	/^sigma_xenon1T = 9.2e-47*(mchi_xenon\/10**2)$/;"	v
+sigma_xenonNF	PY_BH_Exclusion.py	/^sigma_xenonNF = 1.8e-48*(mchi_nf\/1006.1)$/;"	v
+sigma_xenonNF	PY_capture_plotting_practice.py	/^sigma_xenonNF = 10**(0.99823116*np.log10(mchi_xenon)-49.68264486)$/;"	v
+sigma_xenonNF	PY_fig_3_incomplete.py	/^sigma_xenonNF = 1.8e-48*(mchi_nf\/1006.1)$/;"	v
+sigma_xenonNF	PY_practice_fig3.py	/^sigma_xenonNF = 1.8e-48*(mchi_nf\/1006.1)$/;"	v
+sigv32SM_lower_bound_numerical	PY_practice_fig3.py	/^def sigv32SM_lower_bound_numerical(star, frac_life, mx, rho_chi, vbar, sigma_xenon, approx = 'po/;"	f
+slope	PY_DMCoreMass.py	/^        slope, intercept = np.polyfit(np.log(mchi), np.log(rchi[i]), 1)$/;"	v
+slope	PY_DMCoreMass.py	/^    slope, intercept = np.polyfit(np.log(sigma), np.log(M_DM[0][0]), 1)$/;"	v
+star_count	PY_BH_Exclusion.py	/^star_count = 0$/;"	v
+star_count	PY_practice_fig3.py	/^star_count = 0$/;"	v
+stars_list	PY_BH_Exclusion.py	/^stars_list = [M300, M1000]$/;"	v
+stars_list	PY_DMCoreMass.py	/^stars_list = (M300, M1000)$/;"	v
+stars_list	PY_calculating_evap_rates.py	/^stars_list = [M300, M1000]$/;"	v
+stars_list	PY_capture_plotting_practice.py	/^stars_list = (M100, M300, M1000)$/;"	v
+stars_list	PY_effective_temp.py	/^stars_list = [M1, M1_5, M2, M3, M5, M10, M15, M20, M30, M50, M100, M200, M300, M400, M600, M1000/;"	v
+stars_list	PY_fig_3_incomplete.py	/^stars_list = (M300, M1000)$/;"	v
+stars_list	PY_popIII_dmdetectors_capturefunc.py	/^stars_list = (M100, M300, M1000)$/;"	v
+stars_list	PY_practice_fig3.py	/^stars_list = [M300, M1000]$/;"	v
+t	PY_BH_Exclusion.py	/^t = [10**6] #Years$/;"	v
+t	PY_practice_fig3.py	/^t = [10**6] #Years$/;"	v
+t_lines	PY_BH_Exclusion.py	/^t_lines = ['--']$/;"	v
+t_lines	PY_practice_fig3.py	/^t_lines = ['--']$/;"	v
+t_lines2	PY_BH_Exclusion.py	/^t_lines2 = [':']$/;"	v
+t_lines2	PY_practice_fig3.py	/^t_lines2 = [':']$/;"	v
+tau	PY_DMCoreMass.py	/^    tau = [[],[]]$/;"	v
+tau_eq_22	PY_DMCoreMass.py	/^def tau_eq_22(mx, star, rho_chi, vbar, sigma):$/;"	f
+tau_eq_321	PY_DMCoreMass.py	/^def tau_eq_321(mx, star, rho_chi, vbar, sigma_xenon = False):$/;"	f
+tau_fit	PY_DMCoreMass.py	/^def tau_fit(mx, star): #Returns tau from fitting function based on star and dm mass$/;"	f
+tau_fit	PY_calculating_evap_rates.py	/^def tau_fit(mx, star): #Returns tau from fitting function based on star and dm mass$/;"	f
+tau_fit	PY_practice_fig3.py	/^def tau_fit(mx, star): #Returns tau from fitting function based on star and dm mass$/;"	f
+tau_fit_funcs	PY_DMCoreMass.py	/^tau_fit_funcs = []$/;"	v
+tau_fit_funcs	PY_calculating_evap_rates.py	/^tau_fit_funcs = []$/;"	v
+tau_fit_funcs	PY_practice_fig3.py	/^tau_fit_funcs = []$/;"	v
+tau_temp	PY_DMCoreMass.py	/^    mx_tau_fit, tau_temp = retrieve_tau(star)$/;"	v
+tau_temp	PY_calculating_evap_rates.py	/^    mx_tau_fit, tau_temp = retrieve_tau(star)$/;"	v
+tau_temp	PY_practice_fig3.py	/^    mx_tau_fit, tau_temp = retrieve_tau(star)$/;"	v
+temp	PY_DMCoreMass.py	/^                    temp = M_DM[i][j][k]$/;"	v
+temp	PY_DMCoreMass.py	/^                temp = M_DM[i][j][k]$/;"	v
+thermal	PY_BH_Exclusion.py	/^thermal = True$/;"	v
+thermal	PY_DMCoreMass.py	/^thermal = True$/;"	v
+thermal	PY_fig_3_incomplete.py	/^thermal = True$/;"	v
+thermal	PY_practice_fig3.py	/^thermal = True$/;"	v
+theta	PY_DMCoreMass.py	/^theta = UnivariateSpline(xis, theta_arr, k = 5, s = 0)$/;"	v
+theta	PY_practice_fig3.py	/^theta = UnivariateSpline(xis, theta_arr, k = 5, s = 0)$/;"	v
+theta_arr	PY_DMCoreMass.py	/^xis, theta_arr = retrieve_LaneEmden()$/;"	v
+theta_arr	PY_calculating_evap_rates.py	/^theta_arr = retrieve_LaneEmden()[1]$/;"	v
+theta_arr	PY_practice_fig3.py	/^xis, theta_arr = retrieve_LaneEmden()$/;"	v
+theta_cube	PY_DMCoreMass.py	/^theta_cube = UnivariateSpline(xis, np.array(theta_arr)**3, k = 5, s = 0)$/;"	v
+thinking-space	README.md	/^# thinking-space$/;"	c
+unitarityLimit	PY_practice_fig3.py	/^def unitarityLimit(star, mx):$/;"	f
+unitary	PY_BH_Exclusion.py	/^unitary = False$/;"	v
+unitary	PY_DMCoreMass.py	/^unitary = False$/;"	v
+unitary	PY_fig_3_incomplete.py	/^unitary = False$/;"	v
+unitary	PY_practice_fig3.py	/^unitary = False$/;"	v
+upper_integrand_G	PY_calculating_evap_rates.py	/^def upper_integrand_G(xi, mx, sigma, star):$/;"	f
+vbar	PY_BH_Exclusion.py	/^vbar = 10**6$/;"	v
+vbar	PY_DMCoreMass.py	/^vbar = 10**6$/;"	v
+vbar	PY_capture_plotting_practice.py	/^vbar = 10**6$/;"	v
+vbar	PY_fig_3_incomplete.py	/^vbar = 10**6$/;"	v
+vbar	PY_practice_fig3.py	/^vbar = 10**6$/;"	v
+vesc_r_poly	PY_calculating_evap_rates.py	/^def vesc_r_poly(xi, star):$/;"	f
+xi1	PY_calculating_evap_rates.py	/^xi1 = xis[-1]$/;"	v
+xi_gould	PY_calculating_evap_rates.py	/^def xi_gould(mx, xi, star):$/;"	f
+xis	PY_DMCoreMass.py	/^xis, theta_arr = retrieve_LaneEmden()$/;"	v
+xis	PY_calculating_evap_rates.py	/^xis = retrieve_LaneEmden()[0]$/;"	v
+xis	PY_practice_fig3.py	/^xis, theta_arr = retrieve_LaneEmden()$/;"	v

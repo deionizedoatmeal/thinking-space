@@ -557,12 +557,21 @@ def tau_fit(mx, star): #Returns tau from fitting function based on star and dm m
 
 #Isotropic DM distribution using potential from n=3 polytrope
 def nx_xi(mx, xi, star): #Normalized
-
     kb = 1.380649e-16 #Boltzmann constant in cgs Units (erg/K)
-
     #Finding Tx using Temperature function
     Tx = tau_fit(mx, star) * 10**8 #K
+    #mx in g
+    mx_g = mx*1.783e-24
+    #Numerical DM number density profile for each DM mass (normalized)
+    nx_xi_val = np.exp(-mx_g*potential_poly(xi, star)/(kb*Tx))
 
+    return nx_xi_val
+
+#Isotropic DM distribution using potential from n=3 polytrope
+def nx_r(mx, r, star): #Normalized
+    xi = 6.81 * r/star.get_radius_cm()
+    kb = 1.380649e-16 #Boltzmann constant in cgs Units (erg/K)
+    Tx = tau_fit(mx, star) * 10**8 #K
     #mx in g
     mx_g = mx*1.783e-24
 
@@ -786,7 +795,7 @@ def sigV_lowerBound(star, frac_life, mx, rho_chi, vbar, sigma, Ann_type): #Using
 #Annihilation coefficient -- 2-->2
 def Ca_22(mx, star, rho_chi, vbar, sigma):
     #sigv given by lower bounds
-    sigv = sigV_lowerBound(star, 0.01, mx, rho_chi, vbar, sigma, 22)
+    sigv = 3 * 10**(-26) 
 
     #Defining top and bottom integrands using Fully polytropic approximation
     def integrand_top_Ca(xi, mx, star):
@@ -794,14 +803,22 @@ def Ca_22(mx, star, rho_chi, vbar, sigma):
     def integrand_bottom_Ca(xi, mx, star):
         return 4*np.pi*(star.get_radius_cm()/xis[-1])**3 * xi**2 * nx_xi(mx, xi, star)
 
+    def integrand_top_Ca_cgs(r, mx, star):
+        return 4*np.pi * sigv * r**2 * nx_r(mx, r, star)**2
+    def integrand_bottom_Ca_cgs(r, mx, star):
+        return 4*np.pi * r**2 * nx_r(mx, r, star)
+
     #print(integrand_top_Ca(xis[-1], mx, star))
     #print(integrand_bottom_Ca(xis[-1], mx, star))
 
-    Ca = quad(integrand_top_Ca, 0, xis[-1], args=(mx, star))[0]/quad(integrand_bottom_Ca, 0, xis[-1], args=(mx, star))[0]**2
+    # Ca = quad(integrand_top_Ca, 0, xis[-1], args=(mx, star))[0]/quad(integrand_bottom_Ca, 0, xis[-1], args=(mx, star))[0]**2
+    Ca = quad(integrand_top_Ca_cgs, 0, star.get_radius_cm(), args=(mx, star))[0]/quad(integrand_bottom_Ca_cgs, 0, star.get_radius_cm(), args=(mx, star))[0]**2
+    print("bottom", quad(integrand_bottom_Ca_cgs, 0, star.get_radius_cm(), args=(mx, star))[0]**2)
 
     #print("Ca: " + str(Ca))
 
     #Integrate over star
+    print(mx, Ca)
     return Ca
 
 #Equilibration timescale -- 2-->2
